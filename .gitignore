@@ -7,3 +7,15 @@ html/main.js
 .pulp-cache
 .psc-ide-port
 .psc-package
+/bower_components/
+/node_modules/
+/output/
+/.tern-port
+*.tix
+/.psc-package
+/.pulp-cache
+/generated-docs/
+/.psc*
+/.purs*
+/.psa*
+/.spago
